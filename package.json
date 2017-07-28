@@ -1,0 +1,32 @@
+{
+  "name": "project-cost-api",
+  "version": "0.0.1",
+  "description": "This is a simple API to track the cost of home improvement projects per ZIP Code.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dMcCaffree/project-cost-api.git"
+  },
+  "keywords": [
+    "home",
+    "improvement",
+    "zipcode",
+    "zip",
+    "code",
+    "cost",
+    "project",
+    "cost",
+    "cost",
+    "API"
+  ],
+  "author": "Dustin McCaffree",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dMcCaffree/project-cost-api/issues"
+  },
+  "homepage": "https://github.com/dMcCaffree/project-cost-api#readme"
+}
