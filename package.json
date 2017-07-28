@@ -28,5 +28,13 @@
   "bugs": {
     "url": "https://github.com/dMcCaffree/project-cost-api/issues"
   },
-  "homepage": "https://github.com/dMcCaffree/project-cost-api#readme"
+  "homepage": "https://github.com/dMcCaffree/project-cost-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
 }
