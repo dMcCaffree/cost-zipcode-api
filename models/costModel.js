@@ -2,7 +2,7 @@
 var mongoose = require('mongoose');
 var Schema = monogoose.Schema;
 
-var TaskSchema = new Schema({
+var ZipcodeSchema = new Schema({
 	project: {
 		type: String,
 		Required: 'Enter project name please'
@@ -15,4 +15,4 @@ var TaskSchema = new Schema({
 	}
 });
 
-module.exports = mongoose.model('Tasks', TaskSchema);
+module.exports = mongoose.model('Zipcodes', ZipcodeSchema);
